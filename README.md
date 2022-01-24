@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Androidaareesh
+- 👋 Hi, I’m @aareesh
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter and Figma
 - 💞️ I’m looking to collaborate on Flutter
